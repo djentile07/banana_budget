@@ -1,8 +1,10 @@
 # Python and dependencies installation
 
-Please install python 3 on your computer and then install the dependencies as follows:
+The following steps assume that python 3 is already installed on your computer.
 
-**pip -r install requirements.txt**
+1. Install virtualenv by running command **pip install virtualenv**
+2. Create a virtual environment and activate it
+3. Install python dependencies by running command **pip -r install requirements.txt**
 
 # Running the tests
 
