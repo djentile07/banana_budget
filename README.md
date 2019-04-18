@@ -14,3 +14,5 @@ Run the tests as follows:
 
 where START_DATE and NUMBER_OF_DAYS are respectively a valid start date and a valid number of days.
 
+e.g **pytest -s --start_date=10-12-2017 --number_of_days=30
+
